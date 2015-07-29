@@ -4,22 +4,22 @@
 */
 
 #text2 {
-	width: 554px;
-	height: 57px;
-	top: 328px;
-	left: 132px;
+	z-index: 10;
+	height: 83px;
+	top: 295px;
+	left: 113px;
+	right: 407px;
 	position: absolute;
 	font-weight: bold;
 	font-size: 38px;
-	z-index: 10;
 }
 
 #text1 {
 	z-index: 8;
-	width: 468px;
-	height: 58px;
-	top: 248px;
-	left: 145px;
+	height: 53px;
+	top: 204px;
+	left: 142px;
+	right: 434px;
 	position: absolute;
 	font-weight: bold;
 	font-size: 38px;
@@ -27,29 +27,22 @@
 
 #icon2 {
 	z-index: 2;
-	width: 306px;
+	width: 394px;
 	height: 243px;
 	top: 58px;
-	left: 102px;
+	left: 77px;
 	position: absolute;
 	background-position: -274px -88px;
 }
 
 #imageButton2 {
 	z-index: 7;
-	width: 511px;
+	width: 548px;
 	height: 359px;
-	top: 379px;
+	top: 333px;
 	left: 131px;
 	position: absolute;
 	background-color: transparent;
-	 background-image:url("data:image/svg+xml;base64, PD94bWwgdmVyc2lvbj0iMS4wIiA/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB2aWV3Qm94PSIwIDAgMSAxIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJub25lIj48bGluZWFyR3JhZGllbnQgaWQ9IndhZi1pZS1ncmFkaWVudCIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIHg9IjAiIHk9IjAiIHgyPSIwIiB5Mj0iMTAwJSI+PHN0b3Agc3RvcC1jb2xvcj0iI2ZmZmZmZiIgb2Zmc2V0PSIwJSIgc3RvcC1vcGFjaXR5PSIwIiAvPjxzdG9wIHN0b3AtY29sb3I9IiNmZmZmZmYiIG9mZnNldD0iMTAwJSIgc3RvcC1vcGFjaXR5PSIwIiAvPjwvbGluZWFyR3JhZGllbnQ+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCN3YWYtaWUtZ3JhZGllbnQpIiAvPjwvc3ZnPg==");
-	 background-image:-webkit-gradient(linear,0% 0%, 0% 100%,color-stop(0, rgba(255,255,255,0)),color-stop(1, rgba(255,255,255,0)));
-	 background-image:-webkit-linear-gradient(top, rgba(255,255,255,0) 0%,rgba(255,255,255,0) 100%);
-	 background-image:-moz-linear-gradient(top, rgba(255,255,255,0) 0%,rgba(255,255,255,0) 100%);
-	 background-image:-ms-linear-gradient(top, rgba(255,255,255,0) 0%,rgba(255,255,255,0) 100%);
-	 background-image:-o-linear-gradient(top, rgba(255,255,255,0) 0%,rgba(255,255,255,0) 100%);
-	 background-image:linear-gradient(top, rgba(255,255,255,0) 0%,rgba(255,255,255,0) 100%);
 	border-top-color: transparent;
 	border-left-color: transparent;
 	border-right-color: transparent;
@@ -73,23 +66,22 @@
 	-webkit-box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px inset, rgba(0, 0, 0, 0.148438) 0px 0px 0px 0px;
 	 -moz-box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px inset, rgba(0, 0, 0, 0.148438) 0px 0px 0px 0px;
 	 box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px inset, rgba(0, 0, 0, 0.148438) 0px 0px 0px 0px;
-}
-
-#image2 {
-	z-index: 5;
-	width: 295px;
-	height: 105px;
-	top: -3px;
-	left: 549px;
-	position: absolute;
+	box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px inset, rgba(0, 0, 0, 0.148438) 0px 0px 0px 0px;
+	 background-image:url("data:image/svg+xml;base64, PD94bWwgdmVyc2lvbj0iMS4wIiA/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB2aWV3Qm94PSIwIDAgMSAxIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJub25lIj48bGluZWFyR3JhZGllbnQgaWQ9IndhZi1pZS1ncmFkaWVudCIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIHg9IjAiIHk9IjAiIHgyPSIwIiB5Mj0iMTAwJSI+PHN0b3Agc3RvcC1jb2xvcj0iI2ZmZmZmZiIgb2Zmc2V0PSIwJSIgc3RvcC1vcGFjaXR5PSIwIiAvPjxzdG9wIHN0b3AtY29sb3I9IiNmZmZmZmYiIG9mZnNldD0iMTAwJSIgc3RvcC1vcGFjaXR5PSIwIiAvPjwvbGluZWFyR3JhZGllbnQ+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCN3YWYtaWUtZ3JhZGllbnQpIiAvPjwvc3ZnPg==");
+	 background-image:-webkit-gradient(linear,0% 0%, 0% 100%,color-stop(0, rgba(255, 255, 255, 0)),color-stop(1, rgba(255, 255, 255, 0)));
+	 background-image:-webkit-linear-gradient(top, rgba(255, 255, 255, 0) 0%,rgba(255, 255, 255, 0) 100%);
+	 background-image:-moz-linear-gradient(top, rgba(255, 255, 255, 0) 0%,rgba(255, 255, 255, 0) 100%);
+	 background-image:-ms-linear-gradient(top, rgba(255, 255, 255, 0) 0%,rgba(255, 255, 255, 0) 100%);
+	 background-image:-o-linear-gradient(top, rgba(255, 255, 255, 0) 0%,rgba(255, 255, 255, 0) 100%);
+	 background-image:linear-gradient(top, rgba(255, 255, 255, 0) 0%,rgba(255, 255, 255, 0) 100%);
 }
 
 #image1 {
 	z-index: 4;
-	width: 458px;
 	height: 168px;
-	top: -18px;
-	left: -9px;
+	top: 48px;
+	left: 221px;
+	right: 487px;
 	position: absolute;
 }
 
