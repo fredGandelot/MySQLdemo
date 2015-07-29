@@ -3,6 +3,182 @@
 	Changes to this CSS file might be lost when it is regenerated.
 */
 
+#icon18 {
+	width: 58px;
+	height: 54px;
+	top: -4px;
+	left: 9px;
+	position: absolute;
+	z-index: 1;
+}
+
+#imageButton16 {
+	width: 76px;
+	height: 45px;
+	top: 605px;
+	left: 530px;
+	position: absolute;
+	z-index: 28;
+}
+
+#icon6 {
+	width: 58px;
+	height: 54px;
+	top: -4px;
+	left: 9px;
+	position: absolute;
+	z-index: 1;
+}
+
+#imageButton8 {
+	width: 76px;
+	height: 45px;
+	top: 606px;
+	left: 486px;
+	position: absolute;
+	z-index: 26;
+}
+
+#icon5 {
+	width: 58px;
+	height: 54px;
+	top: -4px;
+	left: 9px;
+	position: absolute;
+	z-index: 1;
+}
+
+#imageButton4 {
+	width: 76px;
+	height: 45px;
+	top: 606px;
+	left: 437px;
+	position: absolute;
+	z-index: 25;
+}
+
+#icon2 {
+	width: 58px;
+	height: 54px;
+	top: -4px;
+	left: 9px;
+	position: absolute;
+	z-index: 1;
+}
+
+#imageButton1 {
+	width: 76px;
+	height: 45px;
+	top: 23px;
+	left: 930px;
+	position: absolute;
+	border-top-left-radius: 0px;
+	-moz-border-radius-topleft: 0px;
+	border-top-right-radius: 0px;
+	-moz-border-radius-topright: 0px;
+	border-bottom-left-radius: 0px;
+	-moz-border-radius-bottomleft: 0px;
+	border-bottom-right-radius: 0px;
+	-moz-border-radius-bottomright: 0px;
+	z-index: 2;
+}
+
+#label3 {
+	width: auto;
+	height: 15px;
+	top: 212px;
+	left: 411px;
+	position: absolute;
+}
+
+#label2 {
+	width: auto;
+	height: 15px;
+	top: 165px;
+	left: 411px;
+	position: absolute;
+}
+
+#label1 {
+	width: auto;
+	height: 15px;
+	top: 116px;
+	left: 411px;
+	position: absolute;
+}
+
+#icon9 {
+	z-index: 2;
+	width: 68px;
+	height: 60px;
+	top: -4px;
+	left: 5px;
+	position: absolute;
+}
+
+#imageButton7 {
+	z-index: 24;
+	width: 79px;
+	height: 51px;
+	top: 604px;
+	left: 652px;
+	position: absolute;
+}
+
+#icon8 {
+	z-index: 2;
+	width: 63px;
+	height: 63px;
+	top: -2px;
+	left: 1px;
+	position: absolute;
+}
+
+#imageButton6 {
+	z-index: 23;
+	width: 65px;
+	height: 59px;
+	top: 599px;
+	left: 281px;
+	position: absolute;
+}
+
+#icon7 {
+	z-index: 2;
+	width: 58px;
+	height: 54px;
+	top: -4px;
+	left: 9px;
+	position: absolute;
+}
+
+#imageButton5 {
+	z-index: 22;
+	width: 76px;
+	height: 45px;
+	top: 604px;
+	left: 232px;
+	position: absolute;
+}
+
+#icon4 {
+	z-index: 2;
+	width: 62px;
+	height: 56px;
+	top: -5px;
+	left: 34px;
+	position: absolute;
+}
+
+#imageButton2 {
+	z-index: 19;
+	width: 130px;
+	height: 45px;
+	top: 604px;
+	left: 673px;
+	position: absolute;
+}
+
 #dataGrid3 {
 	z-index: 15;
 	width: 916px;
@@ -13,7 +189,6 @@
 }
 
 #textInput20 {
-	z-index: 13;
 	width: 130px;
 	height: 22px;
 	top: 211px;
@@ -25,7 +200,6 @@
 }
 
 #textInput19 {
-	z-index: 12;
 	width: 130px;
 	height: 22px;
 	top: 161px;
@@ -37,7 +211,6 @@
 }
 
 #textInput18 {
-	z-index: 11;
 	width: 130px;
 	height: 22px;
 	top: 113px;
@@ -68,7 +241,7 @@
 
 #textInput12 {
 	z-index: 4;
-	width: 333px;
+	width: 245px;
 	height: 47px;
 	top: 100px;
 	left: 491px;
@@ -78,9 +251,9 @@
 #text1 {
 	z-index: 2;
 	width: 167px;
-	height: 78px;
-	top: 92px;
-	left: 221px;
+	height: 52px;
+	top: 103px;
+	left: 244px;
 	position: absolute;
 	font-size: 38px;
 	font-weight: bold;
@@ -90,8 +263,8 @@
 	z-index: 1;
 	width: 160px;
 	height: 159px;
-	top: 40px;
-	left: 26px;
+	top: 51px;
+	left: 66px;
 	position: absolute;
 }
 
@@ -163,6 +336,8 @@
 	-webkit-box-shadow: rgba(0, 0, 0, 0.199219) 2px 2px 6px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px inset;
 	 -moz-box-shadow: rgba(0, 0, 0, 0.199219) 2px 2px 6px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px inset;
 	 box-shadow: rgba(0, 0, 0, 0.199219) 2px 2px 6px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px inset;
+	box-shadow: rgba(0, 0, 0, 0.199219) 2px 2px 6px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px inset;
+	background-color: rgb(255, 255, 255);
 }
 
 #richText1 {
@@ -204,8 +379,8 @@
 	z-index: 1;
 	width: 1003px;
 	height: 713px;
-	top: 62px;
-	left: 8px;
+	top: 36px;
+	left: 22px;
 	position: absolute;
 }
 
