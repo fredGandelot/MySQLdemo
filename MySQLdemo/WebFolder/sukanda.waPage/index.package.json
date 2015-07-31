@@ -59,6 +59,9 @@
 		{
 			"file": "application.css",
 			"path": "WEBFOLDER"
+		},
+		{
+			"file": "scripts/index.js"
 		}
 	]
 }

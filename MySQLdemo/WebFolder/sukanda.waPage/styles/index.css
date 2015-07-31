@@ -3,70 +3,115 @@
 	Changes to this CSS file might be lost when it is regenerated.
 */
 
+#textInput15:focus {
+	background-color: rgb(255, 255, 170);
+}
+
+#textInput12:focus {
+	background-color: rgb(255, 255, 170);
+}
+
+#textInput14:focus {
+	background-color: rgb(255, 255, 170);
+}
+
+#textInput12:active {
+	background-color: rgb(255, 255, 170);
+}
+
+#label6 {
+	width: auto;
+	height: 16px;
+	top: 214px;
+	left: 743px;
+	position: absolute;
+	color: transparent;
+}
+
+#label5 {
+	width: auto;
+	height: 15px;
+	top: 164px;
+	left: 738px;
+	position: absolute;
+	color: transparent;
+}
+
+#label4 {
+	width: auto;
+	height: 15px;
+	top: 116px;
+	left: 738px;
+	position: absolute;
+	text-shadow: rgb(255, 255, 255) 0px 0px 0px;
+	color: transparent;
+}
+
 #icon18 {
+	z-index: 1;
 	width: 58px;
 	height: 54px;
 	top: -4px;
 	left: 9px;
 	position: absolute;
-	z-index: 1;
 }
 
 #imageButton16 {
+	z-index: 28;
 	width: 76px;
 	height: 45px;
 	top: 605px;
 	left: 530px;
 	position: absolute;
-	z-index: 28;
 }
 
 #icon6 {
+	z-index: 1;
 	width: 58px;
 	height: 54px;
 	top: -4px;
 	left: 9px;
 	position: absolute;
-	z-index: 1;
 }
 
 #imageButton8 {
+	z-index: 26;
 	width: 76px;
 	height: 45px;
 	top: 606px;
 	left: 486px;
 	position: absolute;
-	z-index: 26;
 }
 
 #icon5 {
+	z-index: 1;
 	width: 58px;
 	height: 54px;
 	top: -4px;
 	left: 9px;
 	position: absolute;
-	z-index: 1;
 }
 
 #imageButton4 {
+	z-index: 25;
 	width: 76px;
 	height: 45px;
 	top: 606px;
 	left: 437px;
 	position: absolute;
-	z-index: 25;
 }
 
 #icon2 {
+	z-index: 1;
 	width: 58px;
 	height: 54px;
 	top: -4px;
 	left: 9px;
 	position: absolute;
-	z-index: 1;
 }
 
 #imageButton1 {
+	z-index: 2;
 	width: 76px;
 	height: 45px;
 	top: 23px;
@@ -80,13 +125,12 @@
 	-moz-border-radius-bottomleft: 0px;
 	border-bottom-right-radius: 0px;
 	-moz-border-radius-bottomright: 0px;
-	z-index: 2;
 }
 
 #label3 {
 	width: auto;
 	height: 15px;
-	top: 212px;
+	top: 224px;
 	left: 411px;
 	position: absolute;
 }
@@ -94,15 +138,15 @@
 #label2 {
 	width: auto;
 	height: 15px;
-	top: 165px;
+	top: 171px;
 	left: 411px;
 	position: absolute;
 }
 
 #label1 {
 	width: auto;
-	height: 15px;
-	top: 116px;
+	height: 16px;
+	top: 115px;
 	left: 411px;
 	position: absolute;
 }
@@ -225,16 +269,16 @@
 	z-index: 7;
 	width: 248px;
 	height: 43px;
-	top: 198px;
+	top: 210px;
 	left: 491px;
 	position: absolute;
 }
 
 #textInput14 {
 	z-index: 6;
-	width: 239px;
-	height: 68px;
-	top: 139px;
+	width: 246px;
+	height: 43px;
+	top: 157px;
 	left: 491px;
 	position: absolute;
 }
