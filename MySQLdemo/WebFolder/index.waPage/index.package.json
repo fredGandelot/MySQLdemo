@@ -34,11 +34,26 @@
 			"package": "Text"
 		},
 		{
+			"package": "LoginPanel"
+		},
+		{
+			"package": "TextInput"
+		},
+		{
+			"package": "LoginButton"
+		},
+		{
+			"package": "Container"
+		},
+		{
 			"file": "styles/index.css"
 		},
 		{
 			"file": "application.css",
 			"path": "WEBFOLDER"
+		},
+		{
+			"file": "scripts/index.js"
 		}
 	]
 }

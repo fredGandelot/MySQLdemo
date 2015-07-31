@@ -3,6 +3,15 @@
 	Changes to this CSS file might be lost when it is regenerated.
 */
 
+#loginButton1 {
+	z-index: 3;
+	width: 127px;
+	height: 34px;
+	top: 24px;
+	left: 800px;
+	position: absolute;
+}
+
 #text2 {
 	z-index: 29;
 	width: 271px;
@@ -325,7 +334,7 @@
 }
 
 #waf-body {
-	background-color: rgb(229, 229, 229);
+	background-color: rgb(0, 0, 0);
 }
 
 #container3 {

@@ -54,6 +54,9 @@
 			"package": "TextInput"
 		},
 		{
+			"package": "LoginButton"
+		},
+		{
 			"file": "styles/index.css"
 		},
 		{
