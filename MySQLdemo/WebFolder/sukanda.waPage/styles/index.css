@@ -3,6 +3,18 @@
 	Changes to this CSS file might be lost when it is regenerated.
 */
 
+#text2 {
+	z-index: 29;
+	width: 271px;
+	height: 25px;
+	top: 652px;
+	left: 436px;
+	position: absolute;
+	font-weight: bold;
+	color: rgb(170, 255, 86);
+	font-size: 24px;
+}
+
 #textInput15:focus {
 	background-color: rgb(255, 255, 170);
 }
@@ -30,18 +42,18 @@
 
 #label5 {
 	width: auto;
-	height: 15px;
+	height: 16px;
 	top: 164px;
-	left: 738px;
+	left: 743px;
 	position: absolute;
 	color: transparent;
 }
 
 #label4 {
 	width: auto;
-	height: 15px;
+	height: 16px;
 	top: 116px;
-	left: 738px;
+	left: 743px;
 	position: absolute;
 	text-shadow: rgb(255, 255, 255) 0px 0px 0px;
 	color: transparent;
@@ -129,16 +141,16 @@
 
 #label3 {
 	width: auto;
-	height: 15px;
-	top: 224px;
+	height: 16px;
+	top: 223px;
 	left: 411px;
 	position: absolute;
 }
 
 #label2 {
 	width: auto;
-	height: 15px;
-	top: 171px;
+	height: 16px;
+	top: 170px;
 	left: 411px;
 	position: absolute;
 }
@@ -423,8 +435,32 @@
 	z-index: 1;
 	width: 1003px;
 	height: 713px;
-	top: 36px;
-	left: 22px;
+	top: 35px;
+	left: 17px;
 	position: absolute;
+}
+
+#textSupp {
+	z-index: 32;
+	width: 224px;
+	height: 28px;
+	top: 652px;
+	left: 434px;
+	position: absolute;
+	font-size: 24px;
+	font-weight: bold;
+	color: rgb(255, 0, 0);
+}
+
+#textAdd {
+	z-index: 33;
+	width: 209px;
+	height: 26px;
+	top: 653px;
+	left: 431px;
+	position: absolute;
+	font-size: 24px;
+	color: rgb(0, 127, 255);
+	font-weight: bold;
 }
 
