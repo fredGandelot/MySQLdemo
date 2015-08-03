@@ -42,27 +42,27 @@
 
 #label6 {
 	width: auto;
-	height: 16px;
-	top: 214px;
-	left: 743px;
+	height: 13px;
+	top: 215px;
+	left: 742px;
 	position: absolute;
 	color: transparent;
 }
 
 #label5 {
 	width: auto;
-	height: 16px;
-	top: 164px;
-	left: 743px;
+	height: 13px;
+	top: 165px;
+	left: 742px;
 	position: absolute;
 	color: transparent;
 }
 
 #label4 {
 	width: auto;
-	height: 16px;
-	top: 116px;
-	left: 743px;
+	height: 13px;
+	top: 117px;
+	left: 742px;
 	position: absolute;
 	text-shadow: rgb(255, 255, 255) 0px 0px 0px;
 	color: transparent;
@@ -150,24 +150,24 @@
 
 #label3 {
 	width: auto;
-	height: 16px;
-	top: 223px;
+	height: 15px;
+	top: 224px;
 	left: 411px;
 	position: absolute;
 }
 
 #label2 {
 	width: auto;
-	height: 16px;
-	top: 170px;
+	height: 15px;
+	top: 171px;
 	left: 411px;
 	position: absolute;
 }
 
 #label1 {
 	width: auto;
-	height: 16px;
-	top: 115px;
+	height: 15px;
+	top: 116px;
 	left: 411px;
 	position: absolute;
 }
