@@ -3,6 +3,62 @@
 	Changes to this CSS file might be lost when it is regenerated.
 */
 
+#dataGrid1 {
+	z-index: 6;
+	width: 928px;
+	height: 300px;
+	top: 350px;
+	left: 61px;
+	position: absolute;
+}
+
+#label7 {
+	z-index: 5;
+	width: auto;
+	height: 15px;
+	top: 265px;
+	left: 67px;
+	position: absolute;
+}
+
+#textInput1 {
+	z-index: 5;
+	width: 222px;
+	height: 44px;
+	top: 251px;
+	left: 103px;
+	position: absolute;
+}
+
+#richText4 {
+	z-index: 3;
+	width: 508px;
+	height: 56px;
+	top: 40px;
+	left: 248px;
+	position: absolute;
+}
+
+#icon3 {
+	z-index: 3;
+	width: 156px;
+	height: 141px;
+	top: 54px;
+	left: 65px;
+	position: absolute;
+}
+
+#text3 {
+	z-index: 1;
+	width: 167px;
+	height: 52px;
+	top: 103px;
+	left: 248px;
+	position: absolute;
+	font-size: 38px;
+	font-weight: bold;
+}
+
 #loginButton1 {
 	z-index: 3;
 	width: 127px;
@@ -42,27 +98,27 @@
 
 #label6 {
 	width: auto;
-	height: 13px;
-	top: 215px;
-	left: 742px;
+	height: 16px;
+	top: 214px;
+	left: 743px;
 	position: absolute;
 	color: transparent;
 }
 
 #label5 {
 	width: auto;
-	height: 13px;
-	top: 165px;
-	left: 742px;
+	height: 16px;
+	top: 164px;
+	left: 743px;
 	position: absolute;
 	color: transparent;
 }
 
 #label4 {
 	width: auto;
-	height: 13px;
-	top: 117px;
-	left: 742px;
+	height: 16px;
+	top: 116px;
+	left: 743px;
 	position: absolute;
 	text-shadow: rgb(255, 255, 255) 0px 0px 0px;
 	color: transparent;
@@ -150,24 +206,24 @@
 
 #label3 {
 	width: auto;
-	height: 15px;
-	top: 224px;
+	height: 16px;
+	top: 223px;
 	left: 411px;
 	position: absolute;
 }
 
 #label2 {
 	width: auto;
-	height: 15px;
-	top: 171px;
+	height: 16px;
+	top: 170px;
 	left: 411px;
 	position: absolute;
 }
 
 #label1 {
 	width: auto;
-	height: 15px;
-	top: 116px;
+	height: 16px;
+	top: 115px;
 	left: 411px;
 	position: absolute;
 }

@@ -2,6 +2,8 @@
 WAF.onAfterInit = function onAfterInit() {// @lock
 
 // @region namespaceDeclaration// @startlock
+	var textInput1 = {};	// @TextInput
+	var findEvent = {};	// @dataSource
 	var imageButton16 = {};	// @buttonImage
 	var imageButton8 = {};	// @buttonImage
 	var icon6 = {};	// @icon
@@ -9,6 +11,17 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 // @endregion// @endlock
 
 // eventHandlers// @lock
+
+	textInput1.keyup = function textInput1_keyup (event)// @startlock
+	{// @endlock
+		sources.leads.query('last_name == :1', find + '%')
+			
+	};// @lock
+
+	findEvent.onAttributeChange = function findEvent_onAttributeChange (event)// @startlock
+	{// @endlock
+		// Add your code here
+	};// @lock
 
 	imageButton16.click = function imageButton16_click (event)// @startlock
 	{// @endlock
@@ -36,6 +49,8 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 	};// @lock
 
 // @region eventManager// @startlock
+	WAF.addListener("textInput1", "keyup", textInput1.keyup, "WAF");
+	WAF.addListener("find", "onAttributeChange", findEvent.onAttributeChange, "WAF");
 	WAF.addListener("imageButton16", "click", imageButton16.click, "WAF");
 	WAF.addListener("imageButton8", "click", imageButton8.click, "WAF");
 	WAF.addListener("icon6", "click", icon6.click, "WAF");
